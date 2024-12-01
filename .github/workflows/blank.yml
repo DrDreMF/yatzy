@@ -1,0 +1,4 @@
+# I prosjektmappen din
+git init
+git add .
+git commit -m "Initial commit: Yatzy AI game"
